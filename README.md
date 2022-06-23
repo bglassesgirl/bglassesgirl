@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I´m Luana Braga 👋
+Focusing on learning JAVA and Arduino for a while!
 
 <!--
 **bglassesgirl/bglassesgirl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
