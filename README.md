@@ -1,4 +1,4 @@
-### Hi there, I´m Luana Braga 👋 Focusing on learning JAVA!
+### Hi there, I´m Luana Braga 👋 
 
 <div align="center">
   <a href="https://github.com/bglassesgirl">
