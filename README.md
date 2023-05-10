@@ -1,4 +1,4 @@
-### Hi there, I´m Luana Braga 👋 & I'm passionate about coding!!
+### Hi there, I´m Luana Braga 👋 & I'm passionate about coding!
 
 <div align="center">
   <a href="https://github.com/bglassesgirl">
