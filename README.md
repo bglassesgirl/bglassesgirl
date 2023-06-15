@@ -1,28 +1,29 @@
-### Hi there, I´m Luana Braga 👋 & I'm passionate about coding!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e07a5f&height=120&section=header"/>
 
-<div align="center">
-  <a href="https://github.com/bglassesgirl">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=bglassesgirl&show_icons=true&theme=react&include_all_commits=true&count_private=true&bg_color=0D1117"/>
-  <img height="165em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bglassesgirl&layout=compact&langs_count=7&theme=react&bg_color=0D1117"/>  
-</div>
+<img src="https://64.media.tumblr.com/230c31fbd15d467799b3e2eb4b495e8c/889d392b5808367b-d4/s1280x1920/bad764d67256c25524f98a0458167c0359d60314.jpg" alt="Image Description" width="200px" align="left" border-radius="50%">
 
  
+```java
+public class GlassesGirl {
+    public static void main(String[] args) {
+        System.out.println("Olá, meu nome é Luana! ");
+        
+        String[] estudandoAtualmente = {"JAVA", "Python", "SQL"};
+      for (String i = tenhoInteresse, i++) {
+          fullstack + arduino}
+        
+      else if (Livros, Jogos, Filmes) { 
+        System.out.println("Feel free to connect!"}
   
-  ## ⚡ Technologies
+"No matter where you go, everyone's connected." - Serial Experiments Lain.
+```
 
-These are some of the technologies and tools that Im studying: 
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bglassesgirl&show_icons=true&count_private=true&hide_border=true&title_color=e07a5f&icon_color=e07a5f&text_color=ebcfb2&bg_color=0d1117" alt="Luana github stats"/>  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bglassesgirl&layout=compact&hide_border=true&title_color=e07a5f&text_color=ebcfb2&bg_color=0d1117" />
+</div>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e07a5f&height=120&section=footer"/>
 
  
