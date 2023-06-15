@@ -15,7 +15,7 @@ public class GlassesGirl {
       else if (Livros, Jogos, Filmes) { 
         System.out.println("Feel free to connect!"}
   
-"No matter where you go, everyone's connected." - Serial Experiments Lain.
+"Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um problema." - Thales Valentim.
 ```
 
 
@@ -24,6 +24,6 @@ public class GlassesGirl {
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bglassesgirl&layout=compact&hide_border=true&title_color=e07a5f&text_color=ebcfb2&bg_color=0d1117" />
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#d089ff&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d089ff&height=120&section=footer"/>
 
  
