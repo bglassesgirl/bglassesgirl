@@ -15,7 +15,8 @@ public class GlassesGirl {
       else if (Livros, Jogos, Filmes) { 
         System.out.println("Feel free to connect!"}
   
-"Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um problema." - Thales Valentim.
+"Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um problema." 
+- Thales Valentim.
 ```
 
 
