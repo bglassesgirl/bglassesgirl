@@ -8,7 +8,8 @@ public class GlassesGirl {
     public static void main(String[] args) {
         System.out.println("Olá, meu nome é Luana! ");
         
-        String[] estudandoAtualmente = {"JAVA", "Python", "SQL"};
+        String[] estudandoAtualmente = {"JAVA-Spring Boot", "Python",
+        "SQL", "HTML-CSS-JAVA SCRIPT"};
       for (String i = tenhoInteresse, i++) {
           fullstack + arduino}
         
@@ -21,7 +22,7 @@ public class GlassesGirl {
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bglassesgirl&show_icons=true&count_private=true&hide_border=true&title_color=e07a5f&icon_color=e07a5f&text_color=ebcfb2&bg_color=0d1117" alt="Luana github stats"/>  
+  <img width="51%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bglassesgirl&show_icons=true&count_private=true&hide_border=true&title_color=e07a5f&icon_color=e07a5f&text_color=ebcfb2&bg_color=0d1117" alt="Luana github stats"/>  
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bglassesgirl&layout=compact&hide_border=true&title_color=e07a5f&text_color=ebcfb2&bg_color=0d1117" />
 </div>
 
