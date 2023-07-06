@@ -9,7 +9,7 @@ public class GlassesGirl {
         System.out.println("Olá, meu nome é Luana! ");
         
         String[] estudandoAtualmente = {"JAVA-Spring Boot", "Python",
-        "SQL", "HTML-CSS-JAVA SCRIPT"};
+        "SQL", "HTML-CSS-JS", "C++"};
       for (String i = tenhoInteresse, i++) {
           fullstack + arduino}
         
