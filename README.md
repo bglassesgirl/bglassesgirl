@@ -7,7 +7,7 @@ public class GlassesGirl {
     public static void main(String[] args) {
         System.out.println("Olá, meu nome é Luana Braga! ");
         
-        String[] estudandoAtualmente = {"JAVA-Spring Boot", "HTML-CSS-JS"};
+        String[] estudandoAtualmente = {"JAVA-Spring Boot", "HTML-CSS-JS", "Fluter - Dart"};
         String[] projetosDesenvolvidos = {"Python, Arduino - C++"};
 
         for (String i = tenhoInteresse, i++) {
